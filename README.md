@@ -1,4 +1,6 @@
 # Programming-101
+<img src="./images/logo-2.webp" alt="logo" width="400"/>
+
 Programming 101 is a foundational course that introduces students to the basics of computer programming and computing systems. This course will cover a broad range of topics, including Boolean logic, binary representation, computing components such as the ALU, registers, RAM, CPU, operating systems, and computer networks.
 
 The course will start by discussing logic gates and Boolean logic, which are the building blocks of modern computing systems. They will explore how computers represent letters, numbers, and other data using binary code. Additionally, students will learn about computing components such as the ALU, registers, and RAM, which are responsible for the calculations and storage of data in a computer.
