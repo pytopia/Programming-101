@@ -1,5 +1,5 @@
 # Programming-101
-<img src="./images/Pytopi Logo.webp" alt="logo" width="400"/>
+<img src="./images/Pytopia Logo.webp" alt="logo" width="400"/>
 
 Programming 101 is a foundational course that introduces students to the basics of computer programming and computing systems. This course will cover a broad range of topics, including Boolean logic, binary representation, computing components such as the ALU, registers, RAM, CPU, operating systems, and computer networks.
 
