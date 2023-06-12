@@ -12,7 +12,7 @@
 
 # 📎 Additional Resources
 
-- Article: "Herman Hollerith and the Tabulating Machine" - American Heritage Society
+- 📰 Article: "Herman Hollerith and the Tabulating Machine" - American Heritage Society
 
 # 💡 Insights
 
