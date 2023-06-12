@@ -1,13 +1,13 @@
 # 📄 Summary
 
-- Computers have enabled various remarkable advancements in global telecommunications, commerce, medicine, education, and entertainment.
-- While computers allow us to explore and connect with the world, they are not magical.
-- The course will not focus on programming but will cover the rules guiding hardware and software design.
-- The course aims to explore the history of computers, including pre-electricity computing, and trace the development of modern components.
-- Topics will include operating systems, internet communication, advancements in smartphones and smart devices, as well as futuristic concepts like quantum computing and present-day challenges like hacking.
-- Carrie Anne Philbin, an award-winning secondary computing teacher and creator of the Geek Gurl Diaries YouTube series, will be the instructor for the course.
-- Carrie Anne is passionate about technology and its impact on society, and she believes that computers play a vital role in our lives.
-- The course aims to provide a better understanding and appreciation for the progress made in computing and its potential for the future.
+1. Computers have enabled various remarkable advancements in global telecommunications, commerce, medicine, education, and entertainment.
+2. While computers allow us to explore and connect with the world, they are not magical.
+3. The course will not focus on programming but will cover the rules guiding hardware and software design.
+4. The course aims to explore the history of computers, including pre-electricity computing, and trace the development of modern components.
+5. Topics will include operating systems, internet communication, advancements in smartphones and smart devices, as well as futuristic concepts like quantum computing and present-day challenges like hacking.
+6. Carrie Anne Philbin, an award-winning secondary computing teacher and creator of the Geek Gurl Diaries YouTube series, will be the instructor for the course.
+7. Carrie Anne is passionate about technology and its impact on society, and she believes that computers play a vital role in our lives.
+8. The course aims to provide a better understanding and appreciation for the progress made in computing and its potential for the future.
 
 # 📎 Additional Resources
 

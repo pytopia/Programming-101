@@ -1,4 +1,5 @@
-# Summary
+# 📄 Summary
+
 1. Computers have become essential in today's world, impacting various aspects of our lives, from infrastructure to manufacturing.
 2. Computing technology has a history of transforming society, similar to the Industrial Revolution's impact on agriculture, industry, and domestic life.
 3. The earliest recognized computing device was the abacus, invented around 2500 BCE, to handle large-scale calculations.
@@ -9,10 +10,12 @@
 8. The success of tabulating machines led to the founding of The Tabulating Machine Company, later known as IBM, and sparked the recognition of computing's value in business and government.
 9. The demand for faster and more flexible data processing tools set the stage for the development of digital computers.
 
-# Additional Resources:
+# 📎 Additional Resources
+
 - Article: "Herman Hollerith and the Tabulating Machine" - American Heritage Society
 
-# Insights:
+# 💡 Insights
+
 - Computing has had a profound impact on society, transforming various industries and aspects of everyday life.
 - The history of computing dates back thousands of years, with humans continuously developing devices to enhance computation and reduce manual labor.
 - The concept of programmability and general-purpose computers emerged with Charles Babbage's analytical engine, laying the foundation for modern computing.
