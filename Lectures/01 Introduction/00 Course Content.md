@@ -1,4 +1,4 @@
-# Summary
+# 📄 Summary
 
 - Computers have enabled various remarkable advancements in global telecommunications, commerce, medicine, education, and entertainment.
 - While computers allow us to explore and connect with the world, they are not magical.
@@ -9,12 +9,12 @@
 - Carrie Anne is passionate about technology and its impact on society, and she believes that computers play a vital role in our lives.
 - The course aims to provide a better understanding and appreciation for the progress made in computing and its potential for the future.
 
-# Additional Resources
+# 📎 Additional Resources
 
 - YouTube Series: Geek Gurl Diaries - Carrie Anne Philbin
 - Book: "Adventures in Raspberry Pi" by Carrie Anne Philbin
 
-# Insights
+# 💡 Insights
 
 - Computers have revolutionized various aspects of society, and their ubiquity underscores their importance.
 - The course will explore the history of computers, from early computing devices to modern components, providing a foundation for understanding their functioning.
