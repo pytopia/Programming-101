@@ -11,9 +11,8 @@
 
 # Additional Resources
 
-YouTube Series: Geek Gurl Diaries - Carrie Anne Philbin
-Book: "Adventures in Raspberry Pi" by Carrie Anne Philbin
-Organization: Raspberry Pi Foundation
+- YouTube Series: Geek Gurl Diaries - Carrie Anne Philbin
+- Book: "Adventures in Raspberry Pi" by Carrie Anne Philbin
 
 # Insights
 
